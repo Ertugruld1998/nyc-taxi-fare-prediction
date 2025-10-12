@@ -348,15 +348,6 @@ NYC TLC - Fare regulations and historical data
 Scikit-learn - Machine learning framework
 Python Community - Open source tools
 
-📊 Citation
-
-@misc{nyc_taxi_prediction_2024,
-  author = {Tanmoy, Fardin Hossain},
-  title = {NYC Taxi Fare Prediction with Rush Hour Analysis},
-  year = {2024},
-  publisher = {GitHub},
-  url = {https://github.com/fardintanmoy/nyc-taxi-fare-prediction}
-}
 
 ⭐ If this project helped you, please star it on GitHub!
 📧 Questions? Open an issue or reach out on LinkedIn!
